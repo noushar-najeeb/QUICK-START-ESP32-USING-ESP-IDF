@@ -1,2 +1,2 @@
-# ESP32
+# ESP32 PROGRAMMING USING ESP-IDF
 Playing with ESP32 features
